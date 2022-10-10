@@ -129,6 +129,16 @@ Una vez instalado, será necesario realizar una configuración básica en la que
 
 
  #### 3. Si queremos ver la configuración, bastará con ejecutar lo siguiente: git config –list
+ <hr>
+
+  ## <center> **Glosario**</center>
+  
+
+**Indexar:** Es cuando una página web o URL se encuentra y se muestra en el índice de resultados de Google o de cualquier otro buscador de internet.
+
+**Remoto:** Algo que resulta inverosímil o que es muy poco probable que suceda.
+
+**URL:** Significa Uniform Resource Locator y es la dirección única y específica que se asigna a cada uno de los recursos disponibles de la World Wide Web para que puedan ser localizados por el navegador y visitados por los usuarios.
 
 </div>
 
