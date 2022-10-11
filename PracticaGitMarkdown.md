@@ -59,7 +59,6 @@ Git es un sistema de control de versiones distribuido, diseñado por Linus Torva
 
 
  ### **Comandos de Git básicos:**
- 
 
 
 ***git init*** creará un nuevo repositorio local GIT. El siguiente comando de Git creará un repositorio en el directorio actual: git init. 
@@ -77,7 +76,7 @@ Git es un sistema de control de versiones distribuido, diseñado por Linus Torva
 ***git remote*** te permite ver todos los repositorios remotos. El siguiente comando listará todas las conexiones junto con sus URLs:
 git remote -v.
 
-
+[Video de comandos git basicos](https://youtu.be/bknZdA0ckHw)
 
 ### **¿Qué es GitHub?**
 
@@ -111,7 +110,7 @@ En Github también puedes entrar a los proyectos de los demás y colaborar para 
 - Ofrece todas las ventajas del sistema de control de versiones Git, pero también tiene otras herramientas que ayudan a tener un mejor control de proyectos.
 
 
-![](github.jpg)
+![](githubbb.jpg)
 
 
 ### **Uso básico para trabajar con Git y GitHub**
