@@ -98,7 +98,6 @@ En Github también puedes entrar a los proyectos de los demás y colaborar para 
 ### **Características de GitHub**
 
 
-
 - GitHub permite alojar proyectos en repositorios de forma gratuita y pública, pero tiene una forma de pago para privados.
 
 - Puedes compartir fácilmente tus proyectos.
@@ -111,6 +110,8 @@ En Github también puedes entrar a los proyectos de los demás y colaborar para 
 
 - Ofrece todas las ventajas del sistema de control de versiones Git, pero también tiene otras herramientas que ayudan a tener un mejor control de proyectos.
 
+
+![](github.jpg)
 
 
 ### **Uso básico para trabajar con Git y GitHub**
@@ -140,7 +141,13 @@ Una vez instalado, será necesario realizar una configuración básica en la que
 
 **URL:** Significa Uniform Resource Locator y es la dirección única y específica que se asigna a cada uno de los recursos disponibles de la World Wide Web para que puedan ser localizados por el navegador y visitados por los usuarios.
 
+
+
+
+
 </div>
+
+
 
 
 
